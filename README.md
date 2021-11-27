@@ -1,4 +1,5 @@
 # hello
+## Play Transformator at [itch.io](https://altered-games.itch.io/transformator)
 - [YouTube](https://www.youtube.com/channel/UC8G5egJVXHMoi-21vIJhKZg)
 - [itch.io](https://altered-games.itch.io/)
 - [Discord](https://discord.gg/CU4XUv3)
